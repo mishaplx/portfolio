@@ -8,7 +8,6 @@ import Contact from "./component/contact/Contact";
 import Portfolio from "./component/portfolio/Portfolio";
 import Testimonials from "./component/testimonials/Testimonials";
 import Footer from "./component/footer/Footer";
-
 export default function App() {
   return (
     <>
