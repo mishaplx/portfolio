@@ -38,11 +38,11 @@ const Nav = () => {
         <BiBook />
       </a>
       <a
-        href="#services"
+        href="#portfolio"
         onClick={() => {
-          setActiveNow("#services");
+          setActiveNow("#portfolio");
         }}
-        className={activeNow === "#services" ? "active" : ""}
+        className={activeNow === "#portfolio" ? "active" : ""}
       >
         <RiServiceLine />
       </a>
