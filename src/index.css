@@ -16,11 +16,11 @@
     --color-white:#fff;
     --color-light: rgba(255, 255, 255, 0.6);
 
-    --transition: all .4s easy;
+    --transition: all 4s easy;
 
     --container-wigth-lg: 75%;
     --container-wigth-md: 86%;
-    --container-wigth-ms: 90%;
+    --container-wigth-sm: 90%;
 }
 
 
